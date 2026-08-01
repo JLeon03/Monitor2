@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 84,
-    "timeDay": 84,
+    "timeDay": 64,
     "timeWeek": 84,
     "timeMonth": 84,
     "timeYear": 84,
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 138,
-    "timeDay": 138,
+    "timeDay": 140,
     "timeWeek": 138,
     "timeMonth": 138,
     "timeYear": 138,
@@ -40,19 +40,19 @@
     "url": "https://openai.com",
     "icon": "https://icons.duckduckgo.com/ip3/openai.com.ico",
     "slug": "open-ai-oficial",
-    "status": "down",
-    "uptime": "11.85%",
-    "uptimeDay": "11.85%",
-    "uptimeWeek": "11.85%",
-    "uptimeMonth": "11.85%",
-    "uptimeYear": "11.85%",
-    "time": 94,
-    "timeDay": 94,
-    "timeWeek": 94,
-    "timeMonth": 94,
-    "timeYear": 94,
+    "status": "up",
+    "uptime": "10.88%",
+    "uptimeDay": "10.88%",
+    "uptimeWeek": "10.88%",
+    "uptimeMonth": "10.88%",
+    "uptimeYear": "10.88%",
+    "time": 98,
+    "timeDay": 98,
+    "timeWeek": 98,
+    "timeMonth": 98,
+    "timeYear": 98,
     "dailyMinutesDown": {
-      "2026-08-01": 955
+      "2026-08-01": 1055
     }
   },
   {
@@ -62,7 +62,7 @@
     "slug": "sitio-de-prueba-fallo",
     "status": "down",
     "uptime": "0.02%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "0.02%",
     "uptimeMonth": "0.02%",
     "uptimeYear": "0.02%",
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-01": 1193,
+      "2026-08-01": 1293,
       "2026-07-31": 209
     }
   }
