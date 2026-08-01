@@ -40,19 +40,19 @@
     "url": "https://openai.com",
     "icon": "https://icons.duckduckgo.com/ip3/openai.com.ico",
     "slug": "open-ai-oficial",
-    "status": "down",
-    "uptime": "28.59%",
-    "uptimeDay": "28.59%",
-    "uptimeWeek": "28.59%",
-    "uptimeMonth": "28.59%",
-    "uptimeYear": "28.59%",
-    "time": 32,
-    "timeDay": 32,
-    "timeWeek": 32,
-    "timeMonth": 32,
-    "timeYear": 32,
+    "status": "up",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
+    "time": 142,
+    "timeDay": 142,
+    "timeWeek": 142,
+    "timeMonth": 142,
+    "timeYear": 142,
     "dailyMinutesDown": {
-      "2026-08-01": 0
+      "2026-08-01": 834
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/este-sitio-no-existe-123456.com.ico",
     "slug": "sitio-de-prueba-fallo",
     "status": "down",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-01": 110,
+      "2026-08-01": 944,
       "2026-07-31": 209
     }
   }
