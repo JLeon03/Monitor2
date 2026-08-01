@@ -9,7 +9,7 @@ sites:
   - name: GitHub
     url: https://github.com
 
-  - name: OpenAI
+  - name: OpenAI Oficial
     url: https://openai.com
 
   - name: Sitio de prueba (fallo)
