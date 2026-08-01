@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 86,
-    "timeDay": 86,
-    "timeWeek": 86,
-    "timeMonth": 86,
-    "timeYear": 86,
+    "time": 84,
+    "timeDay": 84,
+    "timeWeek": 84,
+    "timeMonth": 84,
+    "timeYear": 84,
     "dailyMinutesDown": {}
   },
   {
@@ -28,32 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 102,
-    "timeDay": 102,
-    "timeWeek": 102,
-    "timeMonth": 102,
-    "timeYear": 102,
+    "time": 138,
+    "timeDay": 138,
+    "timeWeek": 138,
+    "timeMonth": 138,
+    "timeYear": 138,
     "dailyMinutesDown": {}
   },
   {
-    "name": "OpenAI",
+    "name": "OpenAI Oficial",
     "url": "https://openai.com",
     "icon": "https://icons.duckduckgo.com/ip3/openai.com.ico",
-    "slug": "open-ai",
+    "slug": "open-ai-oficial",
     "status": "down",
-    "uptime": "18.03%",
-    "uptimeDay": "18.03%",
-    "uptimeWeek": "18.03%",
-    "uptimeMonth": "18.03%",
-    "uptimeYear": "18.03%",
-    "time": 55,
-    "timeDay": 55,
-    "timeWeek": 55,
-    "timeMonth": 55,
-    "timeYear": 55,
+    "uptime": "32.75%",
+    "uptimeDay": "32.75%",
+    "uptimeWeek": "32.75%",
+    "uptimeMonth": "32.75%",
+    "uptimeYear": "32.75%",
+    "time": 32,
+    "timeDay": 32,
+    "timeWeek": 32,
+    "timeMonth": 32,
+    "timeYear": 32,
     "dailyMinutesDown": {
-      "2026-07-31": 153,
-      "2026-08-01": 104
+      "2026-08-01": 0
     }
   },
   {
@@ -73,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-01": 104,
+      "2026-08-01": 110,
       "2026-07-31": 209
     }
   }
