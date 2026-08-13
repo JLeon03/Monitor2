@@ -42,15 +42,15 @@
     "url": "https://openai.com",
     "icon": "https://icons.duckduckgo.com/ip3/openai.com.ico",
     "slug": "open-ai-oficial",
-    "status": "down",
-    "uptime": "18.19%",
-    "uptimeDay": "19.04%",
+    "status": "up",
+    "uptime": "18.13%",
+    "uptimeDay": "19.07%",
     "uptimeWeek": "21.86%",
-    "uptimeMonth": "18.19%",
-    "uptimeYear": "18.19%",
+    "uptimeMonth": "18.13%",
+    "uptimeYear": "18.13%",
     "time": 121,
-    "timeDay": 85,
-    "timeWeek": 138,
+    "timeDay": 90,
+    "timeWeek": 137,
     "timeMonth": 121,
     "timeYear": 121,
     "dailyMinutesDown": {
@@ -66,7 +66,7 @@
       "2026-08-10": 1045,
       "2026-08-11": 920,
       "2026-08-12": 1304,
-      "2026-08-13": 644
+      "2026-08-13": 707
     }
   },
   {
@@ -86,7 +86,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-13": 851,
+      "2026-08-13": 914,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
       "2026-08-10": 1440,
