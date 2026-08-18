@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 91,
-    "timeDay": 55,
-    "timeWeek": 107,
-    "timeMonth": 91,
-    "timeYear": 91,
+    "time": 89,
+    "timeDay": 54,
+    "timeWeek": 101,
+    "timeMonth": 89,
+    "timeYear": 89,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
-    "time": 201,
-    "timeDay": 25,
-    "timeWeek": 184,
-    "timeMonth": 201,
-    "timeYear": 201,
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 194,
+    "timeDay": 26,
+    "timeWeek": 178,
+    "timeMonth": 194,
+    "timeYear": 194,
     "dailyMinutesDown": {
       "2026-08-12": 60
     }
@@ -43,14 +43,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/openai.com.ico",
     "slug": "open-ai-oficial",
     "status": "down",
-    "uptime": "18.83%",
-    "uptimeDay": "19.56%",
-    "uptimeWeek": "21.51%",
-    "uptimeMonth": "18.83%",
-    "uptimeYear": "18.83%",
+    "uptime": "18.71%",
+    "uptimeDay": "15.97%",
+    "uptimeWeek": "21.24%",
+    "uptimeMonth": "18.71%",
+    "uptimeYear": "18.71%",
     "time": 112,
-    "timeDay": 92,
-    "timeWeek": 96,
+    "timeDay": 89,
+    "timeWeek": 95,
     "timeMonth": 112,
     "timeYear": 112,
     "dailyMinutesDown": {
@@ -70,7 +70,8 @@
       "2026-08-14": 1108,
       "2026-08-15": 1169,
       "2026-08-16": 1103,
-      "2026-08-17": 1082
+      "2026-08-17": 1210,
+      "2026-08-18": 30
     }
   },
   {
@@ -90,7 +91,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-17": 1312,
+      "2026-08-18": 30,
+      "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
