@@ -10,11 +10,11 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 105,
-    "timeDay": 202,
-    "timeWeek": 140,
-    "timeMonth": 105,
-    "timeYear": 105,
+    "time": 104,
+    "timeDay": 207,
+    "timeWeek": 137,
+    "timeMonth": 104,
+    "timeYear": 104,
     "dailyMinutesDown": {
       "2026-08-18": 29
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.77%",
-    "time": 194,
-    "timeDay": 26,
-    "timeWeek": 178,
-    "timeMonth": 194,
-    "timeYear": 194,
+    "time": 209,
+    "timeDay": 561,
+    "timeWeek": 216,
+    "timeMonth": 209,
+    "timeYear": 209,
     "dailyMinutesDown": {
       "2026-08-12": 60
     }
@@ -44,17 +44,17 @@
     "url": "https://openai.com",
     "icon": "https://icons.duckduckgo.com/ip3/openai.com.ico",
     "slug": "open-ai-oficial",
-    "status": "down",
-    "uptime": "19.07%",
-    "uptimeDay": "23.76%",
-    "uptimeWeek": "19.89%",
-    "uptimeMonth": "19.07%",
-    "uptimeYear": "19.07%",
-    "time": 108,
-    "timeDay": 75,
-    "timeWeek": 91,
-    "timeMonth": 108,
-    "timeYear": 108,
+    "status": "up",
+    "uptime": "19.03%",
+    "uptimeDay": "23.79%",
+    "uptimeWeek": "19.56%",
+    "uptimeMonth": "19.03%",
+    "uptimeYear": "19.03%",
+    "time": 107,
+    "timeDay": 78,
+    "timeWeek": 92,
+    "timeMonth": 107,
+    "timeYear": 107,
     "dailyMinutesDown": {
       "2026-08-01": 1144,
       "2026-08-02": 1301,
@@ -73,7 +73,7 @@
       "2026-08-15": 1169,
       "2026-08-16": 1103,
       "2026-08-17": 1210,
-      "2026-08-18": 1018
+      "2026-08-18": 1083
     }
   },
   {
@@ -93,7 +93,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-18": 1362,
+      "2026-08-18": 1427,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
