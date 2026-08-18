@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 89,
-    "timeDay": 54,
-    "timeWeek": 101,
-    "timeMonth": 89,
-    "timeYear": 89,
-    "dailyMinutesDown": {}
+    "time": 107,
+    "timeDay": 270,
+    "timeWeek": 149,
+    "timeMonth": 107,
+    "timeYear": 107,
+    "dailyMinutesDown": {
+      "2026-08-18": 1
+    }
   },
   {
     "name": "GitHub",
@@ -43,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/openai.com.ico",
     "slug": "open-ai-oficial",
     "status": "down",
-    "uptime": "19.11%",
+    "uptime": "19.09%",
     "uptimeDay": "23.76%",
     "uptimeWeek": "19.89%",
-    "uptimeMonth": "19.11%",
-    "uptimeYear": "19.11%",
+    "uptimeMonth": "19.09%",
+    "uptimeYear": "19.09%",
     "time": 108,
     "timeDay": 75,
     "timeWeek": 91,
@@ -71,7 +73,7 @@
       "2026-08-15": 1169,
       "2026-08-16": 1103,
       "2026-08-17": 1210,
-      "2026-08-18": 970
+      "2026-08-18": 989
     }
   },
   {
@@ -91,7 +93,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-18": 1315,
+      "2026-08-18": 1333,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
