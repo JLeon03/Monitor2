@@ -1,7 +1,7 @@
 url: https://openai.com
-status: down
-code: 403
-responseTime: 57
-lastUpdated: 2026-08-26T04:21:36.711Z
+status: up
+code: 200
+responseTime: 88
+lastUpdated: 2026-08-26T06:05:04.840Z
 startTime: 2026-08-01T01:49:25.335Z
 generator: Upptime <https://github.com/upptime/upptime>
